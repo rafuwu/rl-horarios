@@ -1,0 +1,105 @@
+235 Odivelas (Metro) - Casal da Paradela
+236 Pontinha (Metro) - Casal Novo via Casal do Bispo
+901 Lisboa (Campo Grande) - Caneças (Esc Secundária)  
+925 Odivelas (Metro) - Loures (Hospital Beatriz Angelo) via Jardim Amoreira
+926 Odivelas (Metro) - Arroja
+931 Lisboa (Campo Grande) - Pontinha (Metro) via Centro Comercial  
+001 Odivelas (Metro) - circulação via Casal do Chapim
+003 Odivelas (Metro) - circulação
+004 Sr Roubado (Metro) - Casal do Bispo
+201 Lisboa (Campo Grande) - Caneças (Esc Secundária)  
+202 Sr Roubado (Metro) - Montemor
+203 Pontinha (Metro) - Casal do Bispo
+205 Pontinha (Metro) - Sr Roubado (Metro)
+206 Pontinha (Metro) - Loures (Centro Comercial)
+207 Odivelas (Metro) - Circulação via Sete Castelos
+208 Arroja - circulação
+209 Arroja - circulação via Patameiras (Centro Comercial)
+210 Lisboa (Colégio Militar) - Caneças (Jardim)
+211 Odivelas (Metro) - Ramada (Bº Bons Dias)
+212 Caneças (Jardim) - Vale Nogueira
+213 Sr Roubado (Metro) - Caneças (Esc Secundária)
+214 Odivelas (Metro) - Casal da Paradela
+215 Cacem (Estação CP) - Loures (via Hospital)
+216 Sr Roubado (Metro) - circulação
+220 Caneças (Esc Primária) - Vale de Lobos
+221 Caneças (Esc Primária) - Almargem do Bispo
+222 Pontinha (Metro) - Pedernais (Bº do Girasol)
+223 Pontinha (Metro) - Casal Novo
+224 Pontinha (Metro) - Caneças (Esc Secundária) via Serra da Helena
+225 Odivelas (Metro) - Loures (Hospital Beatriz Angelo)
+226 Sr Roubado (Metro) - Arroja
+227 Pontinha (Metro) - Vale Grande
+228 Pontinha (Metro) - Jardim da Amoreira
+229 Odivelas (Metro) - circulação via Colinas do Cruzeiro
+230 Odivelas (Metro) - Casal de Cambra (Centro de Saúde)
+231 Pontinha (Metro) - Caneças (Qta São Carlos) via Centro Comercial
+238 Sr Roubado (Metro) - Frielas (Zona Comercial)
+905 Pontinha (Metro) - Odivelas (Metro)
+913 Odivelas (Metro) - Caneças (Esc Secundária)
+916 Odivelas (Metro) - circulação
+934 Odivelas (Metro) - Montemor
+005 Caneças (Esc Secundária) - circulação via Casal Novo
+333 Lisboa (Campo Grande) - Zambujal  
+334 Lisboa (Campo Grande) - Infantado  
+344 Lisboa (Campo Grande) - Bucelas  
+353 Lisboa (Campo Grande) - Vialonga (Qta Maranhota)  
+354 Lisboa (Campo Grande) - Vialonga (Qta Maranhota) via Infantado
+331 Lisboa (Campo Grande) - Bucelas
+332 Zambujal - circulação
+335 Lisboa (Campo Grande) - Bucelas
+336 Lisboa (Campo Grande) - Bucelas
+337 Lisboa (Campo Grande) - Tojal
+338 Infantado (Piscinas) - Tojal
+339 Bucelas - Camondes
+340 Bucelas - Malveira
+342 Alverca (Estº) - Bucelas
+363 Tojal - circulação via MARL
+365 Odivelas - Loures (Centro Comercial)
+357 Bucelas circulação via Vila de Rei (Circular)
+358 Bucelas circulação via Bemposta (Circular)
+362 Urbana de Loures (Circular)
+330 Lisboa (Estação Oriente) - Forte da Casa
+347 Lisboa (Estº Oriente) - Alverca (Arcena)
+300 Lisboa (Campo Grande) - Sacavém (Pç Républica)
+301 Lisboa (Estação Oriente) - Loures (Z Comercial)
+302 Lisboa (Pç José Queirós) - Bairro de Santiago
+305 Lisboa (Estação Oriente) - Loures
+309 Lisboa (Estação Oriente) - Cabeço da Aguieira
+310 Lisboa (Estação Oriente) - Charneca do Lumiar  
+311 Lisboa (Campo Grande) - Bairro das Coroas (Alto do Moinho)
+312 Lisboa (Campo Grande) - circulação via Charneca
+313 Lisboa (Campo Grande) - circulação via Sacavém
+315 Lisboa (Campo Grande) circulação via Bairro da Bogalheira
+316 Lisboa (Estação Oriente) - Sta Iria de Azóia
+317 Lisboa (Estação Oriente) - Bairro da Covina  
+318 Lisboa (Estação Oriente) - Portela de Azóia  
+319 Lisboa (Areeiro) - Alverca (Zona Industrial)
+320 Lisboa (Areeiro) - Alverca (Estação)
+321 Lisboa (Areeiro) - Via Rara
+329 Lisboa (Campo Grande) - Quinta da Piedade
+345 Alverca (Estº) - Arcena
+346 Tojal - Alverca (Estº)
+348 Tojal - Póvoa Sta Iria
+349 Póvoa Sta Iria - Fonte Santa
+350 Póvoa Santa Iria - Verdelha Ruivo
+351 Póvoa Sta Iria circulação via Vialonga (Circular)
+360 Loures - Alverca (Estação)
+370 Tojal - Póvoa Sta Iria via Zambujal
+750 Lisboa (Estação Oriente) circulação via Bº Coroas e Unhos
+306 Urbana de Camarate (Circular)
+307 Urbana de Sacavém - circulação
+308 Urbana de Estação Oriente - circulação  
+322 Forte da Casa circulação via Quinta da Piedade
+323 Póvoa de Sta Iria (Estação) circulação via Forte da Casa
+324 Póvoa de Sta Iria circulação via Casal da Serra
+325 Bº Monjões circulação via Bragadas e Póvoa de Sta. Iria
+326 Póvoa Sta Iria circulação via Quinta da Piedade
+327 Sta Iria Azóia (Estação) circulação Portela de Azóia
+328 Póvoa Sta Iria circulação via Qta Piedade e Bragadas
+237 Odivelas (Odivelas Parque) - circulação  
+240 Olival Basto - circulação via Povoa Sto Adrião  
+241 Ramada(Escolas) - Circulação
+303 Rodinhas de Moscavide (Circular)  
+710 Rodinhas de Sacavém (Circular)  
+711 Rodinhas de Camarate (Circular)
